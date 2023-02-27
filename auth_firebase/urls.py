@@ -3,5 +3,5 @@ from auth_firebase import views
 
 
 urlpatterns = [
-    path('',views.TestAPIView.as_view(),name="test-api"),
+    path('',views.StudentAPIView.as_view(),name="test-api"),
 ]

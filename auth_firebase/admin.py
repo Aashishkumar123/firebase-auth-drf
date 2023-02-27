@@ -1,3 +1,5 @@
 from django.contrib import admin
+from auth_firebase.models import Student
 
-# Register your models here.
+
+admin.site.register(Student)
