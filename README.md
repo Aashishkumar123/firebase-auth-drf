@@ -8,6 +8,15 @@ To install all the dependencies just hit this command
 pip install -r requirements.txt
 ```
 
+## Create a Firebase Project
+Visit this url https://console.firebase.google.com/ and create a firebase project.
+and add the authentication sign-in method.
+
+## Get the firebase project credentials
+Open this url https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk select your project and click on generate new private key.
+<br />
+It will download the ```.json``` file open that file you will get all the credentials, just paste in your .env file.
+
 ## Setup .env file
 create a ```.env``` file where ```manage.py``` file is located.
 
