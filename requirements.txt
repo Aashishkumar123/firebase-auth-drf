@@ -6,6 +6,7 @@ cffi==1.15.1
 charset-normalizer==3.0.1
 cryptography==39.0.1
 Django==4.1.7
+django-dotenv==1.4.2
 djangorestframework==3.14.0
 firebase-admin==6.1.0
 google-api-core==2.11.0
