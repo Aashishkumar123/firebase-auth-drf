@@ -33,3 +33,5 @@ FIREBASE_AUTH_PROVIDER_X509_CERT_URL = https://www.googleapis.com/oauth2/v1/cert
 FIREBASE_CLIENT_X509_CERT_URL = -- Paste FIREBASE_CLIENT_X509_CERT_URL here --
 
 ```
+
+Find out full blog on ```firebase authentication``` <a href="https://pythonworld.io/blogs/how-to-implement-firebase-authentication-in-django-and-dango-rest-framework">here</a>
